@@ -19,6 +19,8 @@ function setName(name) {
     document.getElementById("name").innerHTML = name;
     document.getElementById('error-name').innerHTML = ""
 }
+
+
 // let nameInput = document.getElementById('name-input')
 
 // document.getElementById('kirim').addEventListener("click", function(){
