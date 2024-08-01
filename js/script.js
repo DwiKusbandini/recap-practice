@@ -1,6 +1,6 @@
 function validateForm(){
-    const nama = document.forms['message-form']['name-input'].value;
-    const angka = 11
+    // let nama = document.forms['message-form']['name-input'].value;
+    // let angka = 11
 
     if(nama == ''){
         document.getElementById("error-name").innerHTML = "Tidak boleh kosong!"
